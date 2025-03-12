@@ -16,13 +16,13 @@ This repository provides the source code for the T-prameters based design presen
 
 ## Code Overview
 The provided code includes the following MATLAB scripts:
-- **func_MRT_GC.m**: A function that designs RIS scattering matrix to achieve ([passive MRT](https://ieeexplore.ieee.org/abstract/document/10771739)).
+- **func_MRT_GC.m**: A function that designs RIS scattering matrix to achieve [passive MRT](https://ieeexplore.ieee.org/abstract/document/10771739).
 - **func_S2T.m**: A function that converts an S-parameters matrix to an T-parameters matrix.
 - **func_MRT_init.m**: A function that provides the SIM phase shifts initialization based on the passive MRT and simplified channel.
 - **func_sR_MAX_GDA_ExactExact.m**: A function that optimizes the SIM phase shifts to maximize the sum rate using GDA. The optimization and evaluation are based on exact channel.
 - **func_sR_MAX_GDA_SimplExact.m**: A function that optimizes the SIM phase shifts to maximize the sum rate using GDA. The optimization is based on simplified channel and evaluation is based on {exact, simplified} channel.
-- **func_SIM_MC_dipole.m**: A function that computes \mathbf{Z}_l for SIM based on ([dipole mutual impedances expression](https://ieeexplore.ieee.org/abstract/document/9319694)).  
-- **func_SIM_RaySom.m**: A function that computes \mathbf{S}_{l,21} for SIM based on ([Rayleigh Sommerfeld diffraction coefficients](https://ieeexplore.ieee.org/abstract/document/10279173)). 
+- **func_SIM_MC_dipole.m**: A function that computes \mathbf{Z}_l for SIM based on [dipole mutual impedances expression](https://ieeexplore.ieee.org/abstract/document/9319694).  
+- **func_SIM_RaySom.m**: A function that computes \mathbf{S}_{l,21} for SIM based on [Rayleigh Sommerfeld diffraction coefficients](https://ieeexplore.ieee.org/abstract/document/10279173). 
 
 ### Dependencies
 - MATLAB
