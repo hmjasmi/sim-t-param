@@ -2,7 +2,7 @@
 
 This repository contains the code and data associated with the paper:
 
-H. Yahya, M. Nerini, B. Clerckx and M. Debbah, "[T-Parameters Based Modeling for Stacked Intelligent Metasurfaces: Tractable and Physically Consistent Model](https://arxiv.org/)," Archive, 2025.
+H. Yahya, M. Nerini, B. Clerckx and M. Debbah, "[T-Parameters Based Modeling for Stacked Intelligent Metasurfaces: Tractable and Physically Consistent Model](https://arxiv.org/abs/2503.09777)," Archive, 2025.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -39,6 +39,6 @@ If you find this work useful in your research, please consider citing our paper:
 @article{yahya2025sim-t-param,
   title={T-Parameters Based Modeling for Stacked Intelligent Metasurfaces: Tractable and Physically Consistent Model},
   author={Yahya, Hamad and Nerini, Matteo and Clerckx, Bruno and Debbah, Merouane},
-  journal={arXiv preprint arXiv:},
+  journal={arXiv preprint arXiv:arXiv:2503.09777},
   year={2025}
 }
